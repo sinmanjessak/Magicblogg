@@ -1,6 +1,6 @@
 # Magicblogg
-In this project  we took frontend from Bootstrapious.com and making this backend by python /django
- #Recomdation
+In this project  we took frontend from Bootstrapious.com and backend part was made by python /django
+ #Recommdation
  -----django
  ------crispy forms
  ------Tinymce Editor
